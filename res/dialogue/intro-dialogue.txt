@@ -1,0 +1,7 @@
+Game: Lets go over a rundown of the controls.
+Game: Use the Forward and Back arrow keys to move
+Game: Use the Left and Right arrow keys to look left and Right
+Game: Use the space bar to interact with doors
+Game: Press CTRL+S to travel back in time by 10 seconds
+Raven: I will be your eyes and ears on this mission.
+Raven: Collect as much intel as possible without getting caught

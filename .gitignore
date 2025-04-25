@@ -1,0 +1,19 @@
+modules/pycache/
+res/fonts/Font Licenses/
+res/fonts/SpecialFonts/
+res/spritesheets/knight/
+res/spritesheets/rock/
+res/spritesheets/blob/
+res/blobSpritesheet.png
+res/exclamation.png
+res/floor.png
+res/skybox.png
+requirements.txt
+resourcesused.txt
+screenshot.png
+screenshot-Photoroom.png
+storyConcept.txt
+test.py
+levelEditor.py
+vscode/
+__pycache__/

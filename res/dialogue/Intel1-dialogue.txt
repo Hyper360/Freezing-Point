@@ -1,0 +1,8 @@
+You: Raven? Raven? I found something.
+Raven: What did you find?
+You: Looks like some schematics for some sort of missile.
+Raven: Is there anything like a model number or a drawing code to identify it?
+You: Hm...
+You: No, it's unmarked.
+Raven: Unmarked? Very unusual. Keep us in touch if you find something.
+You: Roger Roger.
